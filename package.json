@@ -1,7 +1,7 @@
 {
   "name": "2-demo-2",
   "version": "1.0.0",
-  "description": "Demo2",
+  "description": "Demo2 Lentele",
   "main": "index.js",
   "scripts": { 
     "dev": "dead-server --port=3000 --host=localhost",
